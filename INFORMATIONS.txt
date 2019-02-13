@@ -10,3 +10,8 @@ Ajouter une image :
 Fichiers SQL :
 	
 	Les fichiers demandés se trouvent dans le dossier "Fichiers SQL", à la racine du projet
+	
+Divers : 
+	
+	Il semble y avoir quelques problèmes d'indentations. Je ne sais pas si c'est à cause de SublimeText ou du git push.
+	Désolé pour ces tabulations un peu farfelues qui ne sont pas de mon ressort.
