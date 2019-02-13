@@ -1,0 +1,10 @@
+Pour se connecter au site : 
+
+	Utilisateur : administrateur@blog.fr
+	Mot de passe : 123456
+
+Ajouter une image : 
+
+	Contrairement à la consigne donnée, le format des images lors de l'ajout d'un article doit être .png
+
+

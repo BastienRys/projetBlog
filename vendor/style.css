@@ -1,0 +1,43 @@
+.center {
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.test {
+
+  text-align: center;
+}
+
+.form-group {
+
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+.margin-top {
+
+	margin-top: 15px;
+}
+
+.margin-bot {
+
+	margin-bottom: 15px;
+}
+
+form button {
+
+	margin-top: 10px;
+}
+
+.alert {
+
+	margin-top: 10px;
+}
+
+footer {
+
+	margin-top: 15px;
+}
+
