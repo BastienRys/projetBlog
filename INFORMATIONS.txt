@@ -7,4 +7,6 @@ Ajouter une image :
 
 	Contrairement à la consigne donnée, le format des images lors de l'ajout d'un article doit être .png
 
-
+Fichiers SQL :
+	
+	Les fichiers demandés se trouvent dans le dossier "Fichiers SQL", à la racine du projet
